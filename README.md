@@ -1,2 +1,3 @@
 # Athena
-The Olympian Goddess of Wisdom
+- First stock exp app
+- pip install pysqlite3 
