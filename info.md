@@ -1,0 +1,3 @@
+- reddit_data.py : Use client id, secret, created using your reddit account to work.
+- cid= 'cKN61tqftrmVKw', csec= 'TRuItLkAxiTlDwYF_JPQsJcMkqw', uag= 'stuck-in-the-matrix', subreddit='wallstreetbets'
+- 
