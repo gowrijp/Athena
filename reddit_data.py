@@ -9,7 +9,7 @@ import sqlite3
 
 
 #return a dataframe for the newest reddit posts
-def get_reddit(cid= 'cKN61tqftrmVKw', csec= 'TRuItLkAxiTlDwYF_JPQsJcMkqw', uag= 'stuck-in-the-matrix', subreddit='wallstreetbets'):
+def get_reddit(cid= '', csec= '', uag= '', subreddit='wallstreetbets'):
     reddit = praw.Reddit(client_id= cid, client_secret= csec, user_agent= uag)
 
     posts = reddit.subreddit(subreddit).new(limit=None)
