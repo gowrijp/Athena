@@ -11,10 +11,10 @@ import string
 pd.set_option('display.max_colwidth',None)
 
 def get_all_tweets(screen_name
-                   ,consumer_key = "7L4loY6AMo8QREPbSqUTE40Us"
-                   , consumer_secret= 'arCxY7oM3qtW4PqxlhaKjfX31BRzHC3HDH8RpOc09pGrR1HSZO'
-                   , access_key= "1319646102388264965-ediv7TQNUjo8U0FSB3pM03QkFVDo2u"
-                   , access_secret= "MSeA7cpyBTlS4OPoyANsNBuWEfzyQQONPzbXWmK3reXm3"
+                   ,consumer_key = ""
+                   , consumer_secret= ''
+                   , access_key= ""
+                   , access_secret= ""
                    ):
     #Twitter only allows access to a users most recent 3240 tweets with this method
 
