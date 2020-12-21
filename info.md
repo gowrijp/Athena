@@ -3,3 +3,4 @@
 - tweet_data.py: screen_name ,consumer_key = "7L4loY6AMo8QREPbSqUTE40Us", consumer_secret= 'arCxY7oM3qtW4PqxlhaKjfX31BRzHC3HDH8RpOc09pGrR1HSZO'
                    , access_key= "1319646102388264965-ediv7TQNUjo8U0FSB3pM03QkFVDo2u"
                    , access_secret= "MSeA7cpyBTlS4OPoyANsNBuWEfzyQQONPzbXWmK3reXm3"
+- Medium Link:  [Stock App Dash](https://medium.com/swlh/how-to-create-a-dashboard-to-dominate-the-stock-market-using-python-and-dash-c35a12108c93)
